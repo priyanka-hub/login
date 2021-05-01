@@ -1,17 +1,4 @@
-<title>FOX Sports Digital</title>
-<link>http://api.foxsports.com/v1/rss</link>
-<atom:link href="http://dallas.example.com/rss.xml" rel="self" type="application/rss+xml"/>
-<description>FOX Sports Content Feed</description>
-
-</title>
-<link> https://www.foxsports.com/mlb/video/1892218947588 </link>
-<guid> https://www.foxsports.com/mlb/video/1892218947588 </guid>
-<category>mlb</category>
-<description>
-
-</description>
-<image>
-<title>FOX Sports Digital</title>
-<url> http://www.foxsports.com/wp-content/themes/foxsports/assets/images/60x60.png </url>
-<link> http://api.foxsports.com/v1/rss </link>
-</image>
+{"posts":{
+  {"id"=1, "title"="FOX Sports Digital", "description":"FOX Sports Content Feed"},
+ 
+}}
