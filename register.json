@@ -2,11 +2,16 @@
 <link>http://api.foxsports.com/v1/rss</link>
 <atom:link href="http://dallas.example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <description>FOX Sports Content Feed</description>
-<![CDATA[ Yu Darvish strikes out 12 in narrow 3-2 victory over Giants ]]>
+
 </title>
 <link> https://www.foxsports.com/mlb/video/1892218947588 </link>
 <guid> https://www.foxsports.com/mlb/video/1892218947588 </guid>
 <category>mlb</category>
 <description>
-<![CDATA[ The San Diego Padres escaped with a 3-2 victory over the San Fransisco Giants after a grand slam was overturned to a foul ball late in the game. Yu Darvish did his part, going six innings and striking out 12 batters. ]]>
+
 </description>
+<image>
+<title>FOX Sports Digital</title>
+<url> http://www.foxsports.com/wp-content/themes/foxsports/assets/images/60x60.png </url>
+<link> http://api.foxsports.com/v1/rss </link>
+</image>
